@@ -1,0 +1,19 @@
+blinker==1.9.0
+click==8.1.8
+Flask==3.1.0
+Flask-DebugToolbar==0.16.0
+itsdangerous==2.2.0
+Jinja2==3.1.5
+joblib @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_825_m6wwnf/croot/joblib_1718217221510/work
+MarkupSafe==3.0.2
+nltk @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_aflq6ieo30/croot/nltk_1724427700085/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_5fmmnmaopm/croot/numpy_and_numpy_base_1725470312793/work/dist/numpy-2.0.1-cp312-cp312-macosx_10_15_x86_64.whl#sha256=23905d096f0eb28b63c1129b60f217f0ace809119d2d252535f60acb88237b85
+regex @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_37em23jcor/croot/regex_1736542665278/work
+scikit-learn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7b6qtzf5xs/croot/scikit-learn_1734562486905/work
+scipy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_06t04e6sdk/croot/scipy_1737122910960/work/dist/scipy-1.15.1-cp312-cp312-macosx_10_15_x86_64.whl#sha256=a8c304ae2a1eecb2733a8ed651f420843b965da663e625e640d4f4ea09365b76
+setuptools==75.1.0
+threadpoolctl @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_83z9rmqojb/croot/threadpoolctl_1719407811780/work
+tqdm @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_5akmb2c3eu/croot/tqdm_1724853941623/work
+Werkzeug==3.1.3
+wheel==0.44.0
+xgboost @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b6qk1lz_ug/croot/xgboost-split_1724073748391/work/python-package

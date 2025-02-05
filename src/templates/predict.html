@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Deployment Demo with Flask</title>
+</head>
+<body>
+    <h1>ML Model Deployment</h1>
+    <h3>... tries to predict if the movie review has a positive vibe or negative</h3>
+    <br>
+    <h3>Welcome, {{ name }}!</h3>
+    <br>
+    <h3>Enter a movie review to have its sentiment analyzed:</h3>
+    <form method="post" action="/predict">
+        <textarea type="text" rows="8" cols="120" id="feature1" name="feature1" required>
+        </textarea>
+        <br>
+        <button type="submit">Predict</button>
+    </form>
+    {% if prediction %}
+        <p>Prediction: {{ prediction }}</p>
+    {% endif %}
+</body>
+</html>
